@@ -1,0 +1,18 @@
+# コンパイル済みファイル
+*.ex5
+*.ex4
+
+# ログ・一時ファイル
+*.log
+*.tmp
+*.bak
+~$*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# 個人用の設定・認証情報
+.env
+.env.*
+!.env.example
